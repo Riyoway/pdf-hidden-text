@@ -1,5 +1,6 @@
-# Generated PDFs
+# Generated PDFs (but keep the committed demo samples)
 *.pdf
+!samples/*.pdf
 
 # Python
 __pycache__/
